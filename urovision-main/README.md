@@ -117,9 +117,6 @@ The system achieved the following metrics:
 ---
 
 ## Contributors
-1. [Mohit Mahajan](https://github.com/mohitmahajan095) (Team Leader)
-2. [Mahadev Ambre](https://github.com/MahadevAmbre)
-3. Kalpesh Patil
-4. Ishwari Bhosale
-5. Gauri Gawali
-6. Shweta Shelke
+1. Sahil Durgude
+2. Kalpesh Patil
+3. Priyanka Biswas
